@@ -3,7 +3,7 @@ Certificate Printing Module for Odoo – Manage, design, generate, and print sec
 
 # Odoo Certificate Printing Module
 
-![Odoo 16](https://img.shields.io/badge/Odoo-16.0-%23A3478E)
+![Odoo 19](https://img.shields.io/badge/Odoo-19.0-%23A3478E)
 ![License](https://img.shields.io/badge/License-LGPL--3.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)
 ![GitHub](https://img.shields.io/github/stars/vinayakcodelabs/odoo-certificate-module)
